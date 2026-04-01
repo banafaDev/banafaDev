@@ -13,15 +13,9 @@ Python • Java
 
 ### 🤖 AI & Machine Learning
 PyTorch • TensorFlow • Scikit-learn  
-NumPy • Pandas • Matplotlib  
+NumPy • Pandas • Matplotlib 
+YOLO • PyCaret • OpenCV
 
-### ⚙️ Backend & Deployment
+### ⚙️ Full Stack Web Dev & Deployment
 FastAPI • SQL • Streamlit  
-
-### 🎨 Frontend
 React • HTML • CSS  
-
----
-
-📎 LinkedIn: https://www.linkedin.com/in/ahmed-banafi-4b5034313/  
-✉️ Email: ahhmedgr@gmail.com
