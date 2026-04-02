@@ -12,8 +12,8 @@
 Python • Java  
 
 ### 🤖 AI & Machine Learning
-PyTorch • TensorFlow • Scikit-learn··
-NumPy • Pandas • Matplotlib··
+PyTorch • TensorFlow • Scikit-learn··<br>
+NumPy • Pandas • Matplotlib··<br>
 YOLO • PyCaret • OpenCV··
 
 ### ⚙️ Full Stack Web Dev & Deployment
