@@ -12,9 +12,9 @@
 Python • Java  
 
 ### 🤖 AI & Machine Learning
-PyTorch • TensorFlow • Scikit-learn  
-NumPy • Pandas • Matplotlib
-YOLO • PyCaret • OpenCV
+PyTorch • TensorFlow • Scikit-learn··
+NumPy • Pandas • Matplotlib··
+YOLO • PyCaret • OpenCV··
 
 ### ⚙️ Full Stack Web Dev & Deployment
 FastAPI • SQL • Streamlit  
